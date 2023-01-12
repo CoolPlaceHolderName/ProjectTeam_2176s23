@@ -1,3 +1,3 @@
-# ProjectTeam_2176s23
+# Memento Mori
 
-This is the readme for our assignment 1 project
+This is the readme for our Assignment 1 project
